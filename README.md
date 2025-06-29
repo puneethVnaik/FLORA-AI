@@ -67,13 +67,13 @@ Built using advanced deep learning, semantic search, and mobile vision, FloraAI 
 ## 📦 Project Structure
 
 FloraAI/
-├── app/ # Android (Kotlin) mobile app source
-├── model/ # CNN model scripts and training notebooks
-├── rag/ # RAG pipeline scripts (embedding, storage, retrieval)
-├── data/ # plants.xlsx and related datasets
-├── streamlit_app/ # Prototype interface
-├── README.md # Project documentation
-└── requirements.txt # Python dependencies
+- ├── app/ # Android (Kotlin) mobile app source
+- ├── model/ # CNN model scripts and training notebooks
+- ├── rag/ # RAG pipeline scripts (embedding, storage, retrieval)
+- ├── data/ # plants.xlsx and related datasets
+- ├── streamlit_app/ # Prototype interface
+- ├── README.md # Project documentation
+- └── requirements.txt # Python dependencies
 
 ## ✨ Key Features
 
